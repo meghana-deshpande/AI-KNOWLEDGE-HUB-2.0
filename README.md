@@ -119,5 +119,7 @@ google-generativeai
 ## Developed by
 
 Meghana Deshpande
+
 Sharnbasva University, Kalaburagi  
 Department of Artificial Intelligence and Machine Learning
+
